@@ -47,4 +47,4 @@
 
 ---
 
-💻 **[포트폴리오](https://jeonghwan-portfolio.vercel.app/)에서 더 많은 정보를 확인해 보세요**  
+💻 **[포트폴리오](https://jeonghwan-portfolio.vercel.app/)에서 더 많은 정보를 확인해 보세요.**  
