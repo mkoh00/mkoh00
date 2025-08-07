@@ -1,5 +1,5 @@
 # <img src="https://imgur.com/K9O1659.gif" width="30"/> 안녕하세요!
-저는 **프론트엔드 & 모바일 개발자 오정환**입니다.  
+저는 **프론트엔드·모바일 그리고 백엔드를 모두 경험한 풀스택 개발자 오정환**입니다.  
 문제 해결을 위한 **논리적인 접근**과 **사용자 중심**의 개발을 중요하게 생각하며,  
 하나의 문제를 **다양한 시각에서 접근**하는 것을 좋아합니다.  
 
@@ -26,6 +26,7 @@
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
