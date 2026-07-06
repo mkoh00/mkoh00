@@ -1,10 +1,4 @@
 # <img src="https://imgur.com/K9O1659.gif" width="30"/> 안녕하세요!
-**풀스택 개발자 오정환**입니다.  
-**다양한 시각**에서 문제를 분석하고, **사용자 경험**을 중요하게 생각합니다.
-
----
-
-## Tech Stack
 
 ### Language
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
